@@ -17,6 +17,7 @@
 | `팀장` | 강매란 |
 | `팀원` | 김광진, 김세헌, 김휘수, 박승근, 박유림 |
 | `개발목표` | 훈련과정에서 배운 것을 기반으로 하여 CRUD 기능 구현에 초점을 둔다. <br> 팀원 각 자의 개성을 살리면서 책 커뮤니티 사이트에서 필요한 기능을 맡아 구현한다.         |
+<br>
 
 
 ## :wrench: 2) Development Environment
@@ -40,15 +41,20 @@
 
 ### Cooperation
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<br>
 
 
 ## :mag: 3) Advanced Feature
+
+
+<br>
 
 
 ## 🤔 4) Improvement
 + 각 팀원이 맡은 기능이 서로 영향을 주지 않아 기능 설계를 하기엔 편했지만, 조화를 이루지 못해 DB를 구성할 때 복잡했다.
 + 각자의 기능에 집중하다보니 전체적인 UI가 통일되지 못한 느낌을 준다. 
 + 복합적인 책 커뮤니티 사이트를 지향하는 의미에서 출발하였지만, 회원 입장에서는 각 게시판에서 필요한 기능만을 이용할 수 있다(통합 소통 부재)
+<br>
 
 
 ## :pencil2: 5) 참고 사이트
@@ -57,6 +63,8 @@ https://www.erdcloud.com/d/dPwWePXPyftquHCP8
 
 ### 카카오 오븐
 https://ovenapp.io/project/MgSASWc3Lbm5v8VY3ndBoGRCXbKE3fUP#v2LZS
+<br>
+
 
 ## 📝 License
 
